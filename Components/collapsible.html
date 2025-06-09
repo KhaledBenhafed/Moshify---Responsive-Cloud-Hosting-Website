@@ -1,0 +1,20 @@
+<div class="collapsible collapsible-display">
+  <header class="collapsible-header">
+    <h2>Item 1</h2>
+    <svg class="icon collapsible-ico">
+      <use xlink:href="Images/sprite.svg#chevron"></use>
+    </svg>
+  </header>
+  <div class="collapsible-content">
+    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi, illo.
+  </div>
+</div>
+
+<script>
+  const collapsible = document.querySelectorAll(".collapsible");
+  collapsible.forEach((item) =>
+    item.addEventListener("click", function () {
+      this.classList.toggle("collapsible-display");
+    })
+  );
+</script>

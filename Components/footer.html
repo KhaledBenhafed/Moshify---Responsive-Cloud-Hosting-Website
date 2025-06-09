@@ -1,0 +1,60 @@
+<footer class="block block-black footer">
+  <div class="container grid">
+    <section class="collapsible collapsible-display footer-section">
+      <header class="collapsible-header">
+        <h2 class="footer-heading">Item 1</h2>
+        <svg class="icon collapsible-ico">
+          <use xlink:href="Images/sprite.svg#chevron"></use>
+        </svg>
+      </header>
+      <div class="collapsible-content">
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi, illo.
+      </div>
+    </section>
+    <section class="collapsible footer-section">
+      <header class="collapsible-header">
+        <h2 class="footer-heading">Item 2</h2>
+        <svg class="icon collapsible-ico">
+          <use xlink:href="Images/sprite.svg#chevron"></use>
+        </svg>
+      </header>
+      <div class="collapsible-content">
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi, illo.
+      </div>
+    </section>
+    <section class="collapsible footer-section">
+      <header class="collapsible-header">
+        <h2 class="footer-heading">Item 3</h2>
+        <svg class="icon collapsible-ico">
+          <use xlink:href="Images/sprite.svg#chevron"></use>
+        </svg>
+      </header>
+      <div class="collapsible-content">
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi, illo.
+      </div>
+    </section>
+    <section class="footer-brand">
+      <img src="Images/logo.svg" alt="" />
+      <p class="footer-copyright">Lorem ipsum dolor sit amet.</p>
+    </section>
+    <section class="collapsible collapsible-display footer-section">
+      <header class="collapsible-header">
+        <h2 class="footer-heading">Item 1</h2>
+        <svg class="icon collapsible-ico">
+          <use xlink:href="Images/sprite.svg#chevron"></use>
+        </svg>
+      </header>
+      <div class="collapsible-content">
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi, illo.
+      </div>
+    </section>
+  </div>
+</footer>
+<script>
+  const collapsible = document.querySelectorAll(".collapsible");
+  collapsible.forEach((item) =>
+    item.addEventListener("click", function () {
+      this.classList.toggle("collapsible-display");
+    })
+  );
+</script>
