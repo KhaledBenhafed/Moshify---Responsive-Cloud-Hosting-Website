@@ -6,7 +6,6 @@ This project is a **fully responsive**, **fast-loading** website built for an im
 
 ## 🔗 Live Demo
 👉 [Click here to view the website](https://khaledbenhafed.github.io/Moshify-Responsive-Cloud-Hosting-Website)  
-*(Make sure to replace `your-repo-name` with the actual name of your GitHub repository)*
 
 <br>
 
