@@ -34,11 +34,12 @@ This project is a **fully responsive**, **fast-loading** website built for an im
 
 <br>
 
-## 📱 Screenshots
+## 📱 Web Design
 
-### 🔻 Mobile Version
-<img src="web_design/mobile.png" alt="Mobile version" width="300">
+### 🔻 Mobile Design
+[![Mobile Design](web_design/mobile.png)](web_design/mobile.png)
 
-### 🔻 Desktop Version
-<img src="web_design/standard.png" alt="Desktop version" width="300">
+### 💻 Desktop Design
+[![Desktop Design](web_design/standard.png)](web_design/standard.png)
+
 
