@@ -1,22 +1,44 @@
 # 🌐 Moshify - Cloud Hosting Website
 
-This project is a fully responsive, fast-loading website built for an imaginary cloud hosting company called **Moshify**. The goal was to create a modern, professional design that looks great on all screen sizes, showcasing front-end development skills and UI design implementation.
+This project is a **fully responsive**, **fast-loading** website built for an imaginary cloud hosting company called **Moshify**. It showcases strong front-end development skills with a modern, mobile-first UI inspired by a professional Photoshop mockup.
+
+<br>
+
+## 🔗 Live Demo
+👉 [Click here to view the website](https://khaledbenhafed.github.io/Moshify-Responsive-Cloud-Hosting-Website)  
+*(Make sure to replace `your-repo-name` with the actual name of your GitHub repository)*
+
+<br>
 
 ## 🖼️ Design Approach
+- Designed using **Photoshop mockups** (mobile and desktop versions).
+- Used a **component-based structure** to make the codebase scalable and maintainable.
+- Focused on pixel-perfect implementation and responsiveness across all screen sizes.
 
-- Started with a Photoshop mockup for both mobile and desktop versions.
-- Followed a component-based structure for better scalability and maintainability.
+<br>
 
 ## 🛠️ Tools & Technologies Used
-
 - **VS Code** – Code editor  
-- **HTML, CSS, JavaScript** – Core technologies  
-- **Photoshop** – Used to measure and implement design elements precisely  
-- **Google Chrome & Chrome DevTools** – For testing and debugging
+- **HTML**, **CSS**, **JavaScript** – Core front-end technologies  
+- **Photoshop** – Used for precise design measurement  
+- **Google Chrome & DevTools** – For testing, debugging, and performance checks
+
+<br>
 
 ## 🚀 Features
+- ✅ Fully responsive layout (mobile-first design)
+- ✅ Fast loading with performance-focused code
+- ✅ Clean and organized structure using components
+- ✅ UI/UX optimized for both small and large screens
+- ✅ Semantic HTML and modern CSS techniques
 
-- Fully responsive layout that adapts seamlessly across devices  
-- Clean and structured HTML/CSS  
-- Performance-focused with minimal and efficient code  
-- Mobile-first approach with attention to UI/UX
+<br>
+
+## 📱 Screenshots
+
+### 🔻 Mobile Version
+<img src="web_design/mobile.png" alt="Mobile version" width="300">
+
+### 🔻 Desktop Version
+<img src="web_design/standard.png" alt="Desktop version" width="300">
+
