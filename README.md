@@ -37,9 +37,9 @@ This project is a **fully responsive**, **fast-loading** website built for an im
 ## 📱 Web Design
 
 ### 🔻 Mobile Design
-[![Mobile Design](web_design/mobile.png)](web_design/mobile.png)
+[![Mobile Design](web_design/mobile.png)
 
 ### 💻 Desktop Design
-[![Desktop Design](web_design/standard.png)](web_design/standard.png)
+[![Desktop Design](web_design/standard.png)
 
 
